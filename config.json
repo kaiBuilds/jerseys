@@ -1,0 +1,42 @@
+{
+    "lang": "en",
+    "timeout": 10000,
+    "copy_path": "/workspaces/jerseys/copy.json",
+    "available_textures": [
+        "wood",
+        "matte",
+        "fabric",
+        "holographic"
+    ],
+    "available_fonts": [
+        "CormorantGaramond",
+        "DancingScript",
+        "GreatVibes",
+        "Merriweather",
+        "Montserrat",
+        "OpenSans",
+        "Roboto",
+        "VinaSans"
+    ],
+    "available_illustrations": [
+        "wonton"
+    ],
+    "available_logos": [
+        "Bayesian's United",
+        "Real Frequentists"
+    ],
+    "available_stickers": [
+        "nutrition"
+    ],
+    "available_shirts": [
+        "noodle",
+        "pot"
+    ],
+    "textures_asset_path": "/workspaces/jerseys/assets/textures",
+    "fonts_asset_path": "/workspaces/jerseys/assets/fonts",
+    "art_asset_path": "/workspaces/jerseys/assets/art",
+    "stickers_asset_path": "/workspaces/jerseys/assets/stickers",
+    "logos_asset_path": "/workspaces/jerseys/assets/logos",
+    "shirt_asset_path": "/workspaces/jerseys/assets/shirts",
+    "url_to_generation_service": ""
+}

@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "jerseys"
+version = "0.1.0"
+description = "An example of LLM use and output normalisation for agent orchestration in a creative application."
+authors = ["Alexandre Navarro <alex.wunavarro@gmail.com>"]
+license = "Apache 2.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+numpy = "^1.26.4"
+requests = "^2.31.0"
+black = "^24.2.0"
+pydantic = "^2.6.3"
+pytest = "^8.1.1"
+pytest-cov = "^4.1.0"
+pillow = "^10.2.0"
+streamlit = "^1.32.0"
+streamlit-extras = "^0.4.0"
+python-dotenv = "^1.0.1"
+langchain = "^0.1.11"
+openai = "0.28.1"
+streamlit-chat = "^0.1.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
